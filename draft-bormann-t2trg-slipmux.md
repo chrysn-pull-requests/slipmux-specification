@@ -44,12 +44,12 @@ informative:
 #  BCP205:
 
 venue:
-  group: T2TRG
-  type: Research Group
-  mail: t2trg@irtf.org
-#  arch: https://example.com/WG
-  github: t2trg/slipmux
-#  latest: https://example.com/LATEST
+  group: "Thing-to-Thing"
+  type: "Research Group"
+  mail: "t2trg@irtf.org"
+  arch: "https://mailarchive.ietf.org/arch/browse/t2trg"
+  github: "t2trg/slipmux"
+  latest: "https://t2trg.github.io/slipmux/draft-bormann-t2trg-slipmux.html"
 
 ...
 
