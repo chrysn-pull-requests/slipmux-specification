@@ -10,6 +10,8 @@ This is the working area for the individual Internet-Draft, "Slipmux: Using an U
 * [Compare Editor's Copy to Individual Draft](https://t2trg.github.io/slipmux/#go.draft-bormann-t2trg-slipmux.diff)
 
 
+[Access to all branches](https://t2trg.github.io/slipmux/)
+
 ## Contributing
 
 See the
