@@ -346,7 +346,7 @@ this is exactly the IPv6 MTU, and gives a maximum size of 1279 byte for control 
 
 Note that a CoAP server may lower the client's message size using the 4.13 Request Entity Too Large response with a Size1 value,
 as described in {{Section 5.9.2.9 fo RFC7252}}.
-This way, an implmentation without IP support can and with a CoAP server that uses a buffer which is smaller than the MTU can run interoperably,
+This way, an implementation without IP support and with a CoAP server that uses a buffer which is smaller than the MTU can run interoperably,
 as long as the first part of a control frame can be processed.
 
 This specification provides no means of negotiating any different size;
