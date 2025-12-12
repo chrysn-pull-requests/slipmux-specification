@@ -373,7 +373,7 @@ https://github.com/Lobaro/util-slip
 ## aiocoap
 
 A work in progress implementation of slipmux is a vailable as part of
-the aiocoap library (MIT License, Python language, for unconstrained systems):
+the aiocoap library (MIT License, Python language, for capable systems):
 
 <https://codeberg.org/aiocoap/aiocoap/pulls/52>
 
